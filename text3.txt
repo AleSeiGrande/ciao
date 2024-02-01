@@ -1,0 +1,2 @@
+adesso sto scrivendo sul texto 3
+git status
